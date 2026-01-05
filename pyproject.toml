@@ -1,0 +1,10 @@
+[project]
+name = "resilio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langgraph>=0.2.0",
+    "truststore>=0.10.4",
+]
